@@ -1,0 +1,8 @@
+{
+  // Configuração genérica: serve a aplicação estática e a API da geração (a REN, directamente).
+  // Para a cache em KV e o cron, copiar para wrangler.local.jsonc e acrescentar kv_namespaces e triggers (ver docs/DADOS.md).
+  "name": "de-onde-vem-a-luz",
+  "main": "worker/index.mjs",
+  "compatibility_date": "2026-11-10",
+  "assets": { "directory": "./web", "binding": "ASSETS", "run_worker_first": ["/api/*"] }
+}

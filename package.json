@@ -1,0 +1,14 @@
+{
+  "name": "de-onde-vem-a-luz",
+  "version": "0.1.0",
+  "description": "De onde vem a tua luz? Mapa aberto do caminho da eletricidade, da casa até à central.",
+  "license": "AGPL-3.0-or-later",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "node tools/build-web.mjs",
+    "dev": "node tools/build-web.mjs && node worker/dev.mjs",
+    "test": "node --test \"tests/*.test.mjs\" && python3 -m unittest discover -s tests -p 'test_*.py'"
+  },
+  "engines": { "node": ">=20" }
+}

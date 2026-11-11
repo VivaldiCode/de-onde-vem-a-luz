@@ -1,0 +1,59 @@
+# SPDX-License-Identifier: AGPL-3.0-or-later
+# Sensores REST com o mix de geração de Portugal (REN), servidos pela API do projeto.
+# Copiar para <config>/packages/ e ter `homeassistant: packages: !include_dir_named packages` no configuration.yaml.
+# Atenção: a REN só fecha o dia no seguinte; `asOf` diz o último ponto publicado (pode ter horas de atraso).
+rest:
+  - resource: https://luz.guilhermepinto.pt/api/v1/generation/pt
+    scan_interval: 1800
+    sensor:
+      - name: "Rede PT eólica"
+        unique_id: ddvl_eolica
+        value_template: "{{ value_json.byType.wind if value_json.available else none }}"
+        unit_of_measurement: "MW"
+        device_class: power
+        state_class: measurement
+      - name: "Rede PT hídrica"
+        unique_id: ddvl_hidrica
+        value_template: "{{ value_json.byType.hydro if value_json.available else none }}"
+        unit_of_measurement: "MW"
+        device_class: power
+        state_class: measurement
+      - name: "Rede PT solar"
+        unique_id: ddvl_solar
+        value_template: "{{ value_json.byType.solar if value_json.available else none }}"
+        unit_of_measurement: "MW"
+        device_class: power
+        state_class: measurement
+      - name: "Rede PT gás"
+        unique_id: ddvl_gas
+        value_template: "{{ value_json.byType.gas if value_json.available else none }}"
+        unit_of_measurement: "MW"
+        device_class: power
+        state_class: measurement
+      - name: "Rede PT consumo"
+        unique_id: ddvl_consumo
+        value_template: "{{ value_json.consumptionMw if value_json.available else none }}"
+        unit_of_measurement: "MW"
+        device_class: power
+        state_class: measurement
+      - name: "Rede PT importação"
+        unique_id: ddvl_importacao
+        value_template: "{{ value_json.importMw if value_json.available else none }}"
+        unit_of_measurement: "MW"
+        device_class: power
+        state_class: measurement
+      - name: "Rede PT último ponto"
+        unique_id: ddvl_asof
+        value_template: "{{ value_json.asOf if value_json.available else none }}"
+
+template:
+  - sensor:
+      - name: "Rede PT renovável"
+        unique_id: ddvl_renovavel
+        unit_of_measurement: "%"
+        state_class: measurement
+        availability: "{{ has_value('sensor.rede_pt_consumo') and has_value('sensor.rede_pt_eolica') }}"
+        state: >
+          {% set ren = states('sensor.rede_pt_eolica')|float(0) + states('sensor.rede_pt_hidrica')|float(0) + states('sensor.rede_pt_solar')|float(0) %}
+          {% set c = states('sensor.rede_pt_consumo')|float(0) %}
+          {{ (100 * ren / c) | round(0) if c > 0 else none }}

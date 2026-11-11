@@ -1,0 +1,22 @@
+# dados brutos e derivados grandes: regeneram-se com tools/ (ver docs/DADOS.md)
+data/raw/
+data/eredes.json
+web/data/
+# cópias geradas por `npm run build`
+web/trace.mjs
+web/flow.mjs
+web/grid.json
+web/plant_status.json
+# ficheiros só de pré-visualização / locais
+web/_headers
+web/robots.txt
+wrangler.local.jsonc
+node_modules/
+.wrangler/
+.dev.vars
+.env
+*.key
+__pycache__/
+*.pyc
+web/plant_info.json
+web/entsoe_map.json

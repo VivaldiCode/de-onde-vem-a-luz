@@ -1,0 +1,1223 @@
+{
+ "pr10608606": {
+  "nome": "Central Solar Fotovoltaica Ourika!",
+  "empresa": "Aquila (Aquila European Renewables Income Fund, 50%) - possivelmente o mesmo ativo que 'Ourique'; promotora WElink/Allianz em fontes antigas",
+  "inicio": 2019,
+  "inicio_nota": "Ourique em operação desde dez. 2019 segundo a Aquila; identificação com 'Ourika' e potência (46-62 MW) por confirmar",
+  "estado": "em serviço",
+  "link": null,
+  "fonte": [
+   "https://www.privateequitywire.co.uk/aquila-european-renewables-income-fund-completes-acquisition-50-cent-interest/",
+   "https://gem.wiki/Ourique_solar_farm",
+   "https://www.allianz.com/en_GB/press/news/financials/stakes_investments/181025_allianz-acquires-first-subsidy-free-solar-project-in-iberia.html"
+  ],
+  "confianca": "baixa"
+ },
+ "pr14017342": {
+  "nome": "Parque Eólico da Serra dos Candeeiros",
+  "empresa": "Nadara (ex-Ventient Energy; sociedade Iberwind II Produção)",
+  "inicio": 2006,
+  "inicio_nota": "fases 2006; uma fonte indica junho de 2005; sobreequipamento em 2016 até 121 MW",
+  "estado": "em serviço",
+  "link": "https://nadara.com/nadara-in-portugal",
+  "fonte": [
+   "https://nadara.com/nadara-in-portugal",
+   "https://openinframap.org/stats/area/Portugal/plants/-14017342",
+   "https://siaia.apambiente.pt/AIADOC/DA240/pda_spe_serracandeeiros_01202533102359.pdf"
+  ],
+  "confianca": "media"
+ },
+ "pr14017404": {
+  "nome": "Parque Eólico de Bornes",
+  "empresa": "Nadara (ex-Ventient Energy)",
+  "inicio": 2010,
+  "inicio_nota": "construção nov. 2009 – mar. 2010 (Ventient indica 2009); sobreequipamento em 2016 até 70 MW",
+  "estado": "em serviço",
+  "link": "https://nadara.com/nadara-in-portugal",
+  "fonte": [
+   "https://siaia.apambiente.pt/AIADOC/AIA2569/ParecerCA 2569.pdf",
+   "https://www.gem.wiki/Bornes_wind_farm",
+   "https://nadara.com/nadara-in-portugal"
+  ],
+  "confianca": "media"
+ },
+ "pr14019318": {
+  "nome": "Parque Eólico de Barão de São João",
+  "empresa": "EDP Renováveis",
+  "inicio": 2009,
+  "inicio_nota": "original de 50 MW (2008/2009 segundo as fontes); sobreequipamento em 2022 com turbinas V162 até 62 MW",
+  "estado": "em serviço",
+  "link": "https://edp.com/en/media/news/edpr-and-vestas-complete-installation-largest-wind-turbines-iberian-peninsula",
+  "fonte": [
+   "https://edp.com/en/media/news/edpr-and-vestas-complete-installation-largest-wind-turbines-iberian-peninsula",
+   "https://www.gem.wiki/Bar%C3%A3o_De_S%C3%A3o_Jo%C3%A3o_wind_farm"
+  ],
+  "confianca": "media"
+ },
+ "pr14019550": {
+  "nome": "Parque Eólico de Malhanito",
+  "empresa": "Nadara (sociedade Eólica do Cachopo, S.A. / ENEOP 2)",
+  "inicio": 2013,
+  "inicio_nota": "já em exploração em 2013 (inferido de relatórios de monitorização); data oficial não confirmada",
+  "estado": "em serviço",
+  "link": "https://nadara.com/nadara-in-portugal",
+  "fonte": [
+   "https://nadara.com/nadara-in-portugal",
+   "https://diariodarepublica.pt/dr/detalhe/despacho/4252-2012-2669511",
+   "https://siaia.apambiente.pt/AIADOC/PA410/malhanito-ruído 2ºcampanha201951391134.pdf"
+  ],
+  "confianca": "baixa"
+ },
+ "pr14019695": {
+  "nome": "Parque Eólico da Gardunha",
+  "empresa": "Generg (Total Eren / Novenergia)",
+  "inicio": 2008,
+  "inicio_nota": "fase 1 (~114 MW) em 2008 segundo a GEM; sobreequipamento de 21 MW em 2022",
+  "estado": "em serviço",
+  "link": "https://gem.wiki/Gardunha_wind_farm",
+  "fonte": [
+   "https://gem.wiki/Gardunha_wind_farm",
+   "https://ippjournal.com/update/total-eren-completes-extension-project-of-three-portuguese-wind-farms"
+  ],
+  "confianca": "media"
+ },
+ "pr14019870": {
+  "nome": "Parque Eólico da Raia",
+  "empresa": "Finerge",
+  "inicio": null,
+  "inicio_nota": "agregador (Inzonex) indica 2011, não confirmado; parque construído por fases",
+  "estado": "em serviço",
+  "link": "https://www.thewindpower.net/windfarm_en_597_raia.php",
+  "fonte": [
+   "https://inzonex.co.uk/poweratlas/plant/raia.html",
+   "https://www.gem.wiki/Penamacor_wind_farm",
+   "https://www.thewindpower.net/windfarm_en_597_raia.php"
+  ],
+  "confianca": "media"
+ },
+ "pr14027329": {
+  "nome": "Parque Eólico do Alto Minho I",
+  "empresa": "Finerge",
+  "inicio": 2009,
+  "inicio_nota": "ano de comissionamento indicado na referência Enercon; construído por fases no Vale do Minho (Ventominho)",
+  "estado": "em serviço",
+  "link": "https://www.gem.wiki/Ventominho_wind_farm",
+  "fonte": [
+   "https://enercon.de/en/references/alto-minho",
+   "https://power-technology.com/?p=244774",
+   "https://www.apren.pt/wp-content/uploads/2026/05/Paredes-de-Coura-recebeu-sessao-do-BioImpacte-dedicada-a-biodiversidade-e-energias-renovaveis.pdf"
+  ],
+  "confianca": "media"
+ },
+ "pr14027418": {
+  "nome": "Sub-parque Eólico de Picos",
+  "empresa": "Finerge (GlobalData); GEM lista EDF Renewables - titularidade por confirmar",
+  "inicio": 2008,
+  "inicio_nota": "faz parte do cluster Alto Minho (Picoto, Mendoiro, Santo António, Alto do Corisco, Picos) inaugurado em nov. 2008; ano específico de Picos não confirmado",
+  "estado": "em serviço",
+  "link": "https://en.wikipedia.org/wiki/Alto_Minho_Wind_Farm",
+  "fonte": [
+   "https://www.enercon.de/en/references/alto-minho",
+   "https://www.gem.wiki/Ventominho_wind_farm",
+   "https://en.wikipedia.org/wiki/Alto_Minho_Wind_Farm"
+  ],
+  "confianca": "baixa"
+ },
+ "pr14027419": {
+  "nome": "Sub-parque Eólico de Alto do Corisco",
+  "empresa": "Finerge (GlobalData; promotora Ventominho / Empreendimentos Eólicos do Vale do Minho); GEM cita EDF Renewables",
+  "inicio": 2008,
+  "inicio_nota": "fontes divergem (2007, 2009); o conjunto Alto Minho foi inaugurado em nov. 2008",
+  "estado": "em serviço",
+  "link": "https://en.wikipedia.org/wiki/Alto_Minho_Wind_Farm",
+  "fonte": [
+   "https://www.power-technology.com/marketdata/alto-do-corisco-portugal/",
+   "https://en.wikipedia.org/wiki/Alto_Minho_Wind_Farm"
+  ],
+  "confianca": "baixa"
+ },
+ "pr14027421": {
+  "nome": "Sub-parque Eólico de Mendoiro / Bustavade",
+  "empresa": "Finerge",
+  "inicio": 2007,
+  "inicio_nota": "fase 1 em 2007, fase 2 em 2008 (26 MW cada)",
+  "estado": "em serviço",
+  "link": "https://www.power-technology.com/marketdata/mendoiro-bustavade-portugal/",
+  "fonte": [
+   "https://www.power-technology.com/marketdata/mendoiro-bustavade-portugal/",
+   "https://www.gem.wiki/Ventominho_wind_farm",
+   "https://openinframap.org/stats/area/Portugal/plants/-14027421"
+  ],
+  "confianca": "media"
+ },
+ "pr14027422": {
+  "nome": "Sub-parque Eólico de Picoto / São Silvestre",
+  "empresa": "Finerge (GlobalData); GEM lista EDF Renewables - titularidade por confirmar",
+  "inicio": 2008,
+  "inicio_nota": "fases Picoto / São Silvestre com ano 2008 (GEM); conjunto Alto Minho inaugurado em nov. 2008",
+  "estado": "em serviço",
+  "link": "https://en.wikipedia.org/wiki/Alto_Minho_Wind_Farm",
+  "fonte": [
+   "https://www.gem.wiki/Ventominho_wind_farm",
+   "https://www.power-technology.com/marketdata/power-plant-profile-picoto-portugal/",
+   "https://en.wikipedia.org/wiki/Alto_Minho_Wind_Farm"
+  ],
+  "confianca": "media"
+ },
+ "pr14027431": {
+  "nome": "Parque Eólico do Alto Minho II",
+  "empresa": "Finerge",
+  "inicio": null,
+  "inicio_nota": "complexo Alto Minho inaugurado em nov. 2008 (produção desde 2007); ano exato do «Alto Minho II» não confirmado",
+  "estado": "em serviço",
+  "link": "https://en.wikipedia.org/wiki/Alto_Minho_Wind_Farm",
+  "fonte": [
+   "https://en.wikipedia.org/wiki/Alto_Minho_Wind_Farm",
+   "https://siaia.apambiente.pt/AIADOC/AIA1348/RNT1348.pdf"
+  ],
+  "confianca": "baixa"
+ },
+ "pr14027446": {
+  "nome": "Parque Eólico do Caramulo",
+  "empresa": "Generg (Total Eren / Novenergia)",
+  "inicio": 2007,
+  "inicio_nota": "fase 1 (~90 MW) 2006-2007 (GEM indica 2007, Power Technology 2006); sobreequipamento de 19,2 MW em 2022",
+  "estado": "em serviço",
+  "link": "https://gem.wiki/Caramulo_wind_farm",
+  "fonte": [
+   "https://gem.wiki/Caramulo_wind_farm",
+   "https://ippjournal.com/update/total-eren-completes-extension-project-of-three-portuguese-wind-farms"
+  ],
+  "confianca": "media"
+ },
+ "pr14027695": {
+  "nome": "Parque Eólico da Lousã II",
+  "empresa": "Nadara (Parque Eólico de Trevim, Lda.; antes Ventient Energy)",
+  "inicio": 2009,
+  "inicio_nota": "50 MW em 2009; sobreequipamento de 10 MW em 2016 (total 60 MW)",
+  "estado": "em serviço",
+  "link": "https://nadara.com/nadara-in-portugal",
+  "fonte": [
+   "https://www.ventientenergy.com/?p=2322",
+   "https://gem.wiki/Lous%C3%A3_2_wind_farm",
+   "https://nadara.com/nadara-in-portugal"
+  ],
+  "confianca": "media"
+ },
+ "pr14027932": {
+  "nome": "Parque Eólico da Terra Fria",
+  "empresa": "Energy Means Life (EML), operador; construído pelo consórcio ENEOP 2 (EDPR principal accionista)",
+  "inicio": 2010,
+  "inicio_nota": "comissionado em 2010 e inaugurado em jan. 2011 (EDPR)",
+  "estado": "em serviço",
+  "link": "https://gem.wiki/Terra_Fria_wind_farm",
+  "fonte": [
+   "https://edpr-investors.com/en/media/news/edp-renewables-inaugurates-terra-fria-wind-farm-montalegre",
+   "https://openinframap.org/stats/area/Portugal/plants/-14027932",
+   "https://gem.wiki/Terra_Fria_wind_farm"
+  ],
+  "confianca": "baixa"
+ },
+ "pr14030181": {
+  "nome": "Parque Eólico do Pisco",
+  "empresa": "IKEA Portugal – Móveis e Decoração (comprou à Windpartners em 2018)",
+  "inicio": 2015,
+  "inicio_nota": "fases de 34 + 16 MW (turbinas Gamesa); hibridização solar prevista",
+  "estado": "em serviço",
+  "link": "https://gem.wiki/Pisco_wind_farm",
+  "fonte": [
+   "https://gem.wiki/Pisco_wind_farm",
+   "https://www.jornaldenegocios.pt/empresas/detalhe/concorrencia-da-luz-verde-a-compra-do-parque-eolico-do-pisco-pela-ikea",
+   "https://www.energias-renovables.com/eolica/gamesa-construira-un-parque-eolico-llave-en-20141127"
+  ],
+  "confianca": "media"
+ },
+ "pr14030590": {
+  "nome": "Parque Eólico da Beira Interior",
+  "empresa": "Nadara (operador anterior: Ventient Energy), Trancoso",
+  "inicio": 2015,
+  "inicio_nota": "entrou em serviço entre 2014 e 2015",
+  "estado": "em serviço",
+  "link": "https://gem.wiki/Beira_Interior_wind_farm",
+  "fonte": [
+   "https://openinframap.org/stats/area/Portugal/plants/-14030590",
+   "https://gem.wiki/Beira_Interior_wind_farm",
+   "https://nadara.com/nadara-in-portugal"
+  ],
+  "confianca": "media"
+ },
+ "pr14032495": {
+  "nome": "Parque Eólico do Douro Sul",
+  "empresa": "Finerge (Parque Eólico do Douro Sul, S.A.)",
+  "inicio": 2016,
+  "inicio_nota": "subparques operacionais desde 2016 segundo a GEM; obra de Moimenta começou em jan. 2015",
+  "estado": "em serviço",
+  "link": "https://www.gem.wiki/Douro_Sul_wind_farm",
+  "fonte": [
+   "https://www.gem.wiki/Douro_Sul_wind_farm",
+   "https://openinframap.org/stats/area/Portugal/plants/-14032495"
+  ],
+  "confianca": "media"
+ },
+ "pr14037914": {
+  "nome": "Sub-parque Eólico de Testos II",
+  "empresa": "Finerge (Eólica do Alto Douro)",
+  "inicio": 2011,
+  "inicio_nota": "44 MW em 2011; aumento de 6,6 MW em 2013 (total 50,6 MW); subparque do Alto Douro",
+  "estado": "em serviço",
+  "link": "https://www.gem.wiki/Alto_Douro_wind_farm",
+  "fonte": [
+   "https://www.gem.wiki/Alto_Douro_wind_farm",
+   "https://www.power-technology.com/?p=173794",
+   "https://thewindpower.net/windfarm_en_21422_alto-douro.php"
+  ],
+  "confianca": "media"
+ },
+ "pr14037943": {
+  "nome": "Parque Eólico do Alto Douro",
+  "empresa": "Finerge (Eólica do Alto Douro)",
+  "inicio": 2010,
+  "inicio_nota": "primeira fase em 2010; outras fases 2011, 2013 e 2015",
+  "estado": "em serviço",
+  "link": "https://www.gem.wiki/Alto_Douro_wind_farm",
+  "fonte": [
+   "https://www.gem.wiki/Alto_Douro_wind_farm",
+   "https://worldpowerplants.com/en-us/countries/portugal/alto-douro"
+  ],
+  "confianca": "media"
+ },
+ "pr14047112": {
+  "nome": "Parque Eólico do Sincelo",
+  "empresa": "EDP Renováveis (EDP Renewables)",
+  "inicio": null,
+  "inicio_nota": "construção financiada pelo BEI/BPI em jan. 2021 (dois subparques Argomil-Mouro e Galo-Rainha, Guarda/Pinhel); data de entrada em serviço não confirmada",
+  "estado": "em serviço",
+  "link": "https://www.eib.org/en/press/all/2021-011-portugal-eib-and-bpi-provide-edp-renovaveis-with-eur112-million-to-construct-and-operate-two-wind-farms-with-a-total-capacity-of-125-mw",
+  "fonte": [
+   "https://www.eib.org/en/press/all/2021-011-portugal-eib-and-bpi-provide-edp-renovaveis-with-eur112-million-to-construct-and-operate-two-wind-farms-with-a-total-capacity-of-125-mw",
+   "https://openinframap.org/stats/area/Portugal/plants/-14047112"
+  ],
+  "confianca": "media"
+ },
+ "pr14047196": {
+  "nome": "Parque Eólico de Chão Falcão",
+  "empresa": "Nadara (ex-Ventient Energy; Parque Eólico de Chão Falcão, Lda.)",
+  "inicio": 2005,
+  "inicio_nota": "1.ª fase em abril de 2005; ampliações em 2009 e 2016 (cerca de 90 MW)",
+  "estado": "em serviço",
+  "link": "https://nadara.com/nadara-in-portugal",
+  "fonte": [
+   "https://www.ventientenergy.com/?p=2298",
+   "https://siaia.apambiente.pt/AIADOC/AIA1493/RNT1493.pdf",
+   "https://gem.wiki/Ch%C3%A3o_Falc%C3%A3o_wind_farm"
+  ],
+  "confianca": "media"
+ },
+ "pr14047528": {
+  "nome": "Parque Eólico das Terras Altas de Fafe",
+  "empresa": "Trustenergy (GEM e OpenInfraMap); Engie aparece como antigo desenvolvedor (Electrabel) - titularidade atual por confirmar",
+  "inicio": 2005,
+  "inicio_nota": "primeira turbina no fim de dez. 2004 (Gamesa); fase 1 em 2005 (78 MW), fase 2 em 2008 (26 MW), sobreequipamento de 20 MW em 2023",
+  "estado": "em serviço",
+  "link": null,
+  "fonte": [
+   "https://www.energias-renovables.com/eolica/gamesa-inaugura-nuevo-parque-en-portugal-y",
+   "https://gem.wiki/Terras_Altas_De_Fafe_wind_farm",
+   "https://www.power-technology.com/marketdata/power-plant-profile-terras-altas-de-fafe-portugal/"
+  ],
+  "confianca": "media"
+ },
+ "pr14049668": {
+  "nome": "Parque Eólico de Pampilhosa da Serra",
+  "empresa": "Nadara (ex-Ventient Energy; Parque Eólico da Pampilhosa da Serra, S.A.)",
+  "inicio": 2006,
+  "inicio_nota": "duas fases em 2006 (33 MW + 81 MW)",
+  "estado": "em serviço",
+  "link": "https://nadara.com/nadara-in-portugal",
+  "fonte": [
+   "https://www.ventientenergy.com/?p=2330",
+   "https://nadara.com/nadara-in-portugal",
+   "https://gem.wiki/Pampilhosa_wind_farm"
+  ],
+  "confianca": "media"
+ },
+ "pr14049833": {
+  "nome": "Parque Eólico das Beiras",
+  "empresa": "EDP Renováveis (Eólica das Serras das Beiras)",
+  "inicio": 2010,
+  "inicio_nota": "fases entre 2010 e 2013; algumas fases dadas como desativadas",
+  "estado": "em serviço",
+  "link": "https://gem.wiki/Beiras_wind_farm",
+  "fonte": [
+   "https://gem.wiki/Beiras_wind_farm",
+   "https://openinframap.org/stats/area/Portugal/plants/-14049833"
+  ],
+  "confianca": "media"
+ },
+ "pr14052741": {
+  "nome": "Parque Eólico do Alto da Coutada",
+  "empresa": "EDP Renováveis",
+  "inicio": null,
+  "inicio_nota": "ano de entrada em serviço não encontrado; sobreequipada mais tarde pela EDPR (de 165,6 para ~187 MW)",
+  "estado": "em serviço",
+  "link": "https://www.gem.wiki/Alto_Da_Coutada_wind_farm",
+  "fonte": [
+   "https://www.power-technology.com/news/edpr-expands-portuguese-wind-farm-capacity-to-187mw/",
+   "https://ippjournal.com/update/edpr-expands-capacity-of-alta-da-coutada-wind-farm-in-serra-da-padrela"
+  ],
+  "confianca": "media"
+ },
+ "pr14053076": {
+  "nome": "Parque Eólico de Arada / Montemuro",
+  "empresa": "Finerge (segundo OpenInfraMap/OSM); fontes também citam EDF Renewables - titularidade por confirmar",
+  "inicio": 2008,
+  "inicio_nota": "subparques Arada, Carvalhosa e Picão em 2008 (GEM); EDF EN refere serviço em 2008 e extensão de 9,2 MW",
+  "estado": "em serviço",
+  "link": "https://en.wikipedia.org/wiki/Arada%E2%80%93Montemuro_Wind_Farm",
+  "fonte": [
+   "https://www.gem.wiki/Arada-Montemuro_wind_farm",
+   "https://www.edf.fr/groupe-edf/espaces-dedies/journalistes/tous-les-communiques-de-presse/edf-energies-nouvelles-realise-lextension-de-deux-parcs-eoliens-au-portugal",
+   "https://openinframap.org/stats/area/Portugal/plants/-14053076"
+  ],
+  "confianca": "baixa"
+ },
+ "pr14053213": {
+  "nome": "Sub-Parque Eólico do Pinhal Interior II",
+  "empresa": "Generg (Generventos do Pinhal Interior – Energias Renováveis, S.A.)",
+  "inicio": 2006,
+  "inicio_nota": "fases 2006–2007; sobreequipamento de 12,6 MW em 2022; as fontes variam entre 2005 e 2008",
+  "estado": "em serviço",
+  "link": "https://www.gem.wiki/Pinhal_Interior_wind_farm",
+  "fonte": [
+   "https://www.gem.wiki/Pinhal_Interior_wind_farm",
+   "https://openinframap.org/stats/area/Portugal/plants/-14053213",
+   "https://www.power-technology.com/marketdata/pinhal-interior-portugal/"
+  ],
+  "confianca": "media"
+ },
+ "pr14053252": {
+  "nome": "Parque Eólico do Pinhal Interior",
+  "empresa": "Generg (Total Eren / Novenergia)",
+  "inicio": 2006,
+  "inicio_nota": "fases de 2006 e 2007; sobreequipamento de 12,6 MW em 2022",
+  "estado": "em serviço",
+  "link": "https://www.gem.wiki/Pinhal_Interior_wind_farm",
+  "fonte": [
+   "https://www.gem.wiki/Pinhal_Interior_wind_farm",
+   "https://www.power-technology.com/marketdata/pinhal-interior-portugal/",
+   "https://ippjournal.com/update/total-eren-completes-extension-project-of-three-portuguese-wind-farms"
+  ],
+  "confianca": "media"
+ },
+ "pr14053253": {
+  "nome": "Sub-Parque Eólico do Pinhal Interior I",
+  "empresa": "Generg (grupo TotalEnergies); promotora Generventos do Pinhal Interior",
+  "inicio": 2008,
+  "inicio_nota": "TotalEnergies indica COD T3 2008 para o conjunto de 144 MW; Power Technology dá 2005 só para a fase I (54 MW); ampliação de 12,6 MW em 2022",
+  "estado": "em serviço",
+  "link": "https://renewables.totalenergies.com/en/our-projects/our-projects-worldwide/wind",
+  "fonte": [
+   "https://renewables.totalenergies.com/node/676",
+   "https://www.power-technology.com/marketdata/pinhal-interior-portugal/",
+   "https://www.thewindpower.net/actors_main_en_117_generg.php"
+  ],
+  "confianca": "media"
+ },
+ "pr14071505": {
+  "nome": "Parque Eólico de Penamacor",
+  "empresa": "Lestenergia – Exploração de Parques Eólicos, S.A. (grupo Saeta Yield)",
+  "inicio": 2006,
+  "inicio_nota": "construído por fases, 2006 a 2016; reequipamento (Penamacor 2 e 3B) previsto/em curso em 2026",
+  "estado": "em serviço",
+  "link": "https://www.gem.wiki/Penamacor_wind_farm",
+  "fonte": [
+   "https://www.gem.wiki/Penamacor_wind_farm",
+   "https://diariodarepublica.pt/dr/detalhe/despacho/775-2026-1020469578",
+   "https://www.cm-penamacor.pt/cmpenamacor/uploads/document/file/2560/aviso_parqueeolicopenamacor3b.pdf"
+  ],
+  "confianca": "media"
+ },
+ "pr14554338": {
+  "nome": "Central Fotovoltaica Ricardo Totta",
+  "empresa": "Welink Energy Portugal 2 UK Ltd (WElink Energy; ex-Solara4); em administração judicial/insolvência em 2026",
+  "inicio": 2021,
+  "inicio_nota": "licença de exploração setembro 2021; inaugurada a 9 out. 2021",
+  "estado": "em serviço",
+  "link": "https://portugal.gov.pt/gc22/comunicacao/noticias/a-maneira-de-garantir-que-a-eletricidade-e-mais-barata-e-investindo-em-fontes-renovaveis",
+  "fonte": [
+   "https://portugal.gov.pt/gc22/comunicacao/noticias/a-maneira-de-garantir-que-a-eletricidade-e-mais-barata-e-investindo-em-fontes-renovaveis",
+   "https://www.jornaldenegocios.pt/empresas/energia/detalhe/maior-central-solar-do-pais-entra-em-funcionamento",
+   "https://it.euronews.com/business/2026/08/24/centrale-solare-piu-grande-del-portogallo-la-societa-britannica-entra-in-insolvenza"
+  ],
+  "confianca": "alta"
+ },
+ "pr14554340": {
+  "nome": "Central Fotovoltaica de Rio Maior",
+  "empresa": "Neoen",
+  "inicio": 2025,
+  "inicio_nota": "inaugurada em junho de 2025, em conjunto com Torre Bela (272 MWp no total, Azambuja)",
+  "estado": "em serviço",
+  "link": "https://neoen.com/en/news/2025/neoen-inaugurates-portugals-largest-solar-park-272-mwp-and-affirms-strong-ambitions-in-the-country/",
+  "fonte": [
+   "https://neoen.com/en/news/2025/neoen-inaugurates-portugals-largest-solar-park-272-mwp-and-affirms-strong-ambitions-in-the-country/",
+   "https://www.theportugalnews.com/news/2025-06-05/portugals-largest-solar-park-opens/98327"
+  ],
+  "confianca": "alta"
+ },
+ "pr16408752": {
+  "nome": "Parque Solar de Alcoutim",
+  "empresa": "Galp",
+  "inicio": 2023,
+  "inicio_nota": "inaugurada a 29/09/2023; 144 MWp",
+  "estado": "em serviço",
+  "link": "https://www.essential-business.pt/2023/09/29/galp-inaugurates-is-first-solar-project-in-portugal/",
+  "fonte": [
+   "https://www.essential-business.pt/2023/09/29/galp-inaugurates-is-first-solar-project-in-portugal/",
+   "https://www.galp.com/corp/Portals/0/Comunicados_Media/2023/Setembro/2023_09_29 PR Inauguracao Alcoutim VF.pdf"
+  ],
+  "confianca": "alta"
+ },
+ "pr16950219": {
+  "nome": "Parque Solar Escalabis",
+  "empresa": "Escalabis Solar (sociedade veículo); desenvolvido pela Gesto, cliente Greenvolt",
+  "inicio": 2024,
+  "inicio_nota": "ligado à rede em março de 2024 segundo a Gesto; potência de 210 MWp / 189 MW conforme a fonte; titularidade final por confirmar",
+  "estado": "em serviço",
+  "link": "https://gestoenergy.com/project/escalabis-solar-project/",
+  "fonte": [
+   "https://gestoenergy.com/portugal-210-mw-solar-project-comissioned/",
+   "https://www.power-technology.com/marketdata/power-plant-profile-escalabis-solar-pv-park-portugal/"
+  ],
+  "confianca": "media"
+ },
+ "pr16950359": {
+  "nome": "Central Solar Fotovoltaica do Fundão",
+  "empresa": "Days of Luck, Unipessoal Lda. (grupo Dos Grados, detido pela ICG)",
+  "inicio": 2024,
+  "inicio_nota": "ligação à rede por volta de set./out. 2024 (notícias); 126,5 MW, 192 ha",
+  "estado": "em serviço",
+  "link": "https://www.apren.pt/wp-content/uploads/2026/07/APREN_2026_Solar.pdf",
+  "fonte": [
+   "https://observador.pt/2026/02/25/central-solar-do-fundao-investe-31-milhoes-em-sistema-de-armazenamento-de-baterias/",
+   "https://www.pv-magazine.com/2024/09/30/akuo-dos-grados-complete-307-mw-of-solar-projects-in-portugal",
+   "https://www.theportugalnews.com/news/2024-10-06/190000-solar-panels-in-new-project/92618"
+  ],
+  "confianca": "media"
+ },
+ "pr18156368": {
+  "nome": "Central Solar Fotovoltaica do Cabeço Vermelho",
+  "empresa": "P2K Renováveis (joint venture Pentagab/KGAL), Penamacor",
+  "inicio": 2024,
+  "inicio_nota": "inauguração oficial em setembro de 2024; fontes indicam ~82 MWp, diferente dos 95,6 MW da etiqueta OSM",
+  "estado": "em serviço",
+  "link": "https://www.gem.wiki/Cabe%C3%A7o_Vermelho_solar_farm",
+  "fonte": [
+   "https://www.synertics.io/blog/141/inauguration-of-the-Cabeco-Vermelho-Solar-PV-Plant",
+   "https://energymagz.com/25505/pentagab-and-kgal-launch-81-91-mwp-solar-pv-park-in-penamacor-portugal",
+   "https://www.gem.wiki/Cabe%C3%A7o_Vermelho_solar_farm"
+  ],
+  "confianca": "media"
+ },
+ "pr18272546": {
+  "nome": "Central Solar Fotovoltaica de Santas",
+  "empresa": "Akuo (Akuo Energy / Akuo Renováveis Portugal)",
+  "inicio": 2024,
+  "inicio_nota": "operacional desde setembro de 2024 segundo a Akuo; 180-181 MWp",
+  "estado": "em serviço",
+  "link": "https://www.akuoenergy.com/en/akuo-in-the-world/all-our-projects/santas",
+  "fonte": [
+   "https://www.akuoenergy.com/en/akuo-in-the-world/all-our-projects/santas",
+   "https://taiyangnews.info/markets/europe-solar-pv-news-snippets-akuo-energizes-181-mw-in-portugal-seeks-crowdfunding-for-expansion-more"
+  ],
+  "confianca": "alta"
+ },
+ "pr18745193": {
+  "nome": "Central Hidroelétrica do Alto Rabagão",
+  "empresa": "EDP (EDP Produção)",
+  "inicio": 1964,
+  "inicio_nota": "a página EDP também refere 2012 (possível reforço); APREN indica 66 MW",
+  "estado": "em serviço",
+  "link": "https://portugal.edp.com/en/alto-rabagao-hydro-power-plant",
+  "fonte": [
+   "https://portugal.edp.com/en/alto-rabagao-hydro-power-plant",
+   "https://www.apren.pt/wp-content/uploads/2026/07/APREN_2026_GrandesHidricas.pdf",
+   "https://gem.wiki/Alto_Rabag%C3%A3o_hydroelectric_plant"
+  ],
+  "confianca": "alta"
+ },
+ "pr19455216": {
+  "nome": "Central Hidroelétrica de Picote",
+  "empresa": "Movhera (consórcio Engie / Crédit Agricole Assurances / Mirova; comprada à EDP)",
+  "inicio": 1958,
+  "inicio_nota": "Picote I; Picote II (reforço) é de 2011; modernização de Picote I contratada à Andritz em 2026 (conclusão prevista até fim de 2030)",
+  "estado": "em serviço",
+  "link": "https://cnpgb.apambiente.pt/gr_barragens/gbingles/FichasIng/PicotefichaIng.htm",
+  "fonte": [
+   "https://cnpgb.apambiente.pt/gr_barragens/gbingles/FichasIng/PicotefichaIng.htm",
+   "https://www.andritz.com/newsroom-en/hydro/2026-07-28-picote-group"
+  ],
+  "confianca": "alta"
+ },
+ "pr19455283": {
+  "nome": "Central Hidroelétrica de Picote II",
+  "empresa": "Movhera (consórcio Engie / Crédit Agricole Assurances / Mirova; comprada à EDP)",
+  "inicio": 2011,
+  "inicio_nota": "reforço de potência Picote II, central subterrânea ao lado de Picote I; 2011 segundo a EDP",
+  "estado": "em serviço",
+  "link": "https://edp.com/en/europe/portugal/picote-ii-hydro-power-plant",
+  "fonte": [
+   "https://edp.com/en/europe/portugal/picote-ii-hydro-power-plant",
+   "https://www.energyglobal.com/other-renewables/29072026/engie-selects-andritz-to-modernise-picote-i-hydropower-plant-in-portugal/"
+  ],
+  "confianca": "alta"
+ },
+ "pr19472397": {
+  "nome": "Central Hidroelétrica da Bemposta I",
+  "empresa": "Movhera (consórcio Engie / Crédit Agricole Assurances / Mirova; comprou seis barragens à EDP)",
+  "inicio": 1964,
+  "inicio_nota": "Bemposta I em dez. 1964; reforço Bemposta II concluído em 2011",
+  "estado": "em serviço",
+  "link": "https://en.wikipedia.org/wiki/Bemposta_Dam",
+  "fonte": [
+   "https://www.infopedia.pt/$barragem-da-bemposta",
+   "https://en.wikipedia.org/wiki/Bemposta_Dam",
+   "https://portugal.gov.pt/gc22/comunicacao/comunicados/autoridades-ambientais-aprovam-venda-de-barragens-da-edp-a-engie"
+  ],
+  "confianca": "alta"
+ },
+ "pr19549760": {
+  "nome": "Central Hidroelétrica de Miranda I",
+  "empresa": "Movhera (Engie, Crédit Agricole Assurances e Mirova; comprada à EDP)",
+  "inicio": 1960,
+  "inicio_nota": "data da barragem de Miranda (Wikipedia); sem fonte oficial",
+  "estado": "em serviço",
+  "link": "https://en.wikipedia.org/wiki/Miranda_Dam",
+  "fonte": [
+   "https://en.wikipedia.org/wiki/Miranda_Dam",
+   "https://openinframap.org/stats/area/Portugal/plants/-19549760",
+   "https://www.enerdata.net/publications/daily-energy-news/edp-completes-sale-6-hydropower-plants-17-gw-portugal.html"
+  ],
+  "confianca": "media"
+ },
+ "pr19569245": {
+  "nome": "Central Hidroelétrica do Carrapatelo",
+  "empresa": "EDP (EDP Produção)",
+  "inicio": 1971,
+  "inicio_nota": null,
+  "estado": "em serviço",
+  "link": "https://en.wikipedia.org/wiki/Carrapatelo_Dam",
+  "fonte": [
+   "https://en.wikipedia.org/wiki/Carrapatelo_Dam",
+   "https://www.power-technology.com/marketdata/carrapatelo-portugal/",
+   "https://www.apren.pt/wp-content/uploads/2026/07/APREN_2026_GrandesHidricas.pdf"
+  ],
+  "confianca": "alta"
+ },
+ "pr19953863": {
+  "nome": "Parque Eólico do Tâmega",
+  "empresa": "Iberdrola",
+  "inicio": 2026,
+  "inicio_nota": "Tâmega Norte começou a ser energizado em maio de 2026; Tâmega Sul previsto para setembro de 2026 (parcialmente em serviço)",
+  "estado": "em serviço",
+  "link": "https://www.iberdrola.com/quem-somos/geracao-eletrica-power/energia-eolica-onshore/parques-eolico-tamega",
+  "fonte": [
+   "https://www.iberdrola.com/sala-comunicacao/noticia/detalhe/iberdrola-inicio-energizacao-primeiro-projeto-eolico-hidroeletrico-portugal",
+   "https://www.iberdrola.com/quem-somos/geracao-eletrica-power/energia-eolica-onshore/parques-eolico-tamega"
+  ],
+  "confianca": "media"
+ },
+ "pr20311545": {
+  "nome": "Central Fotovoltaica de Torre Bela",
+  "empresa": "Neoen",
+  "inicio": 2025,
+  "inicio_nota": "inaugurada em junho de 2025, com Rio Maior (272 MWp no total, Azambuja)",
+  "estado": "em serviço",
+  "link": "https://neoen.com/en/news/2025/neoen-inaugurates-portugals-largest-solar-park-272-mwp-and-affirms-strong-ambitions-in-the-country/",
+  "fonte": [
+   "https://neoen.com/en/news/2025/neoen-inaugurates-portugals-largest-solar-park-272-mwp-and-affirms-strong-ambitions-in-the-country/",
+   "https://www.theportugalnews.com/news/2025-06-05/portugals-largest-solar-park-opens/98327"
+  ],
+  "confianca": "alta"
+ },
+ "pr20417325": {
+  "nome": "Central Solar Fotovoltaica Douro Solar",
+  "empresa": "Sonnedix",
+  "inicio": 2025,
+  "inicio_nota": "inaugurada em junho de 2025 (Tarouca, projeto «Douro»); fontes dão 149–150 MW em vez de 126 MW",
+  "estado": "em serviço",
+  "link": "https://sonnedix.com/news/sonnedix-continues-to-build-its-portuguese-portfolio-with-start-of-its-largest-european-plant-plans-to-double-capacity-in-the-market-by-end-of-year",
+  "fonte": [
+   "https://sonnedix.com/news/sonnedix-continues-to-build-its-portuguese-portfolio-with-start-of-its-largest-european-plant-plans-to-double-capacity-in-the-market-by-end-of-year",
+   "https://www.pv-tech.org/sonnedix-powers-150mw-solar-pv-plant-in-portugal/"
+  ],
+  "confianca": "media"
+ },
+ "pr21056109": {
+  "nome": "Central Fotovoltaica de Cerca",
+  "empresa": "EDP Renováveis (EDPR)",
+  "inicio": 2024,
+  "inicio_nota": "entrou em operação em março de 2024 (primeiro leilão solar de 2019)",
+  "estado": "em serviço",
+  "link": "https://eco.sapo.pt/2024/03/18/central-da-cerca-a-maior-solar-da-edp-na-europa-entra-em-operacao/",
+  "fonte": [
+   "https://eco.sapo.pt/2024/03/18/central-da-cerca-a-maior-solar-da-edp-na-europa-entra-em-operacao/",
+   "https://www.pv-magazine.com/2024/03/20/edp-renewables-switches-on-202-mwp-of-pv-in-portugal"
+  ],
+  "confianca": "alta"
+ },
+ "pr8455227": {
+  "nome": "Central Solar Fotovoltaica de Amareleja (Acciona)",
+  "empresa": "Acciona Energía (66%) e Mitsubishi Corporation (34%) através da Amper Central Solar",
+  "inicio": 2008,
+  "inicio_nota": "inaugurada no fim de dezembro de 2008; 46 MW (45,78 MWp)",
+  "estado": "em serviço",
+  "link": "https://www.acciona-energia.com/projects/amareleja-photovoltaic-plant",
+  "fonte": [
+   "https://www.acciona-energia.com/projects/amareleja-photovoltaic-plant",
+   "https://www.renewableenergyworld.com/?p=198349",
+   "https://gem.wiki/Amareleja_Solar_Park"
+  ],
+  "confianca": "alta"
+ },
+ "pw114849239": {
+  "nome": "Central Termoelétrica do Pego",
+  "empresa": "Elecgas (Endesa 50%, Engie 25%, Marubeni 25%)",
+  "inicio": 2010,
+  "inicio_nota": "comissionada em dez. 2010 (Power Technology); alguns agregadores indicam 2011",
+  "estado": "em serviço",
+  "link": "https://gem.wiki/Elecgas_Pego_power_station",
+  "fonte": [
+   "https://www.power-technology.com/marketdata/power-plant-profile-elecgas-pego-combined-cycle-power-plant-portugal/",
+   "https://observador.pt/2021/05/28/desativacao-da-central-do-pego-afetara-cerca-de-85-empregos-diz-presidente-da-endesa/",
+   "https://www.power-eng.com/coal/key-contracts-finalized-for-large-ccgt-project-in-portugal/"
+  ],
+  "confianca": "media"
+ },
+ "pw1168302806": {
+  "nome": "Central Fotovoltaica do Pinhal Novo",
+  "empresa": "EKZ Renewables AG (central 'Pessegueiro', em Pinhal Novo, Palmela; gerida pela Smartenergy)",
+  "inicio": 2022,
+  "inicio_nota": "ligada à rede em dezembro de 2022; 63,5 MWp",
+  "estado": "em serviço",
+  "link": "https://www.pv-magazine.com/press-releases/ekz-and-smartenergy-celebrate-the-successful-connection-to-the-grid-of-their-largest-solar-pv-plant-in-portugal-so-far/",
+  "fonte": [
+   "https://www.pv-magazine.com/press-releases/ekz-and-smartenergy-celebrate-the-successful-connection-to-the-grid-of-their-largest-solar-pv-plant-in-portugal-so-far/",
+   "https://openinframap.org/stats/area/Portugal/plants/1168302806"
+  ],
+  "confianca": "alta"
+ },
+ "pw1190283552": {
+  "nome": "Central de Tratamento de Resíduos Sólidos Urbanos da Valorsul",
+  "empresa": "Valorsul (accionistas: Mota-Engil/SUMA via EGF, municípios de Lisboa, Loures e Amadora)",
+  "inicio": null,
+  "inicio_nota": "ano de arranque não confirmado nas fontes; capacidade de 2.016 t/dia",
+  "estado": "em serviço",
+  "link": "https://www.mota-engil.com/en/meet-valorsul/",
+  "fonte": [
+   "https://www.mota-engil.com/en/meet-valorsul/",
+   "https://www.gem.wiki/Valorsul_Waste-to-Energy_power_station"
+  ],
+  "confianca": "media"
+ },
+ "pw1194063099": {
+  "nome": "Central de Energia da Navigator Pulp Figueira",
+  "empresa": "The Navigator Company",
+  "inicio": null,
+  "inicio_nota": "complexo industrial com cogeração a gás desde 2000 e nova caldeira de biomassa inaugurada em 2021; ano da central em si não confirmado",
+  "estado": "em serviço",
+  "link": "https://gem.wiki/Figueira_da_Foz_Industrial_Complex_power_station",
+  "fonte": [
+   "https://gem.wiki/Figueira_da_Foz_Industrial_Complex_power_station",
+   "https://www.macaubusiness.com/portugal-navigator-to-reduce-30-of-co2-emissions-in-2021-after-e55m-investment/",
+   "https://openinframap.org/stats/area/Portugal/plants/1194063099"
+  ],
+  "confianca": "baixa"
+ },
+ "pw1205267641": {
+  "nome": "Central de Cogeração EUROPA&C Energia Viana",
+  "empresa": "Associada à fábrica de papel de Viana do Castelo (DS Smith Paper Viana segundo GEM; operadora na etiqueta OSM: Portucel Viana Energia) - titularidade por confirmar",
+  "inicio": null,
+  "inicio_nota": "ano de arranque não encontrado; registo CORDIS de 1998 refere ampliação da central industrial existente",
+  "estado": "em serviço",
+  "link": "https://www.dssmith.com/paper/about/paper-mills/viana-pt",
+  "fonte": [
+   "https://cordis.europa.eu/project/id/EI.-01109-98",
+   "https://www.gem.wiki/Viana_Mill_power_station"
+  ],
+  "confianca": "baixa"
+ },
+ "pw1226928891": {
+  "nome": "Central Hidroelétrica de Miranda II",
+  "empresa": "Movhera (Engie ~40%, Crédit Agricole Assurances 35%, Mirova 25%; comprada à EDP)",
+  "inicio": 1995,
+  "inicio_nota": null,
+  "estado": "em serviço",
+  "link": "https://portugal.edp.com/en/miranda-ii-hydro-power-plant",
+  "fonte": [
+   "https://portugal.edp.com/en/miranda-ii-hydro-power-plant",
+   "https://www.gem.wiki/Miranda_II_hydroelectric_plant",
+   "https://www.enerdata.net/publications/daily-energy-news/edp-completes-sale-6-hydropower-plants-17-gw-portugal.html"
+  ],
+  "confianca": "alta"
+ },
+ "pw1227180209": {
+  "nome": "Central Hidroelétrica de Vilar-Tabuaço",
+  "empresa": "EDP Produção (barragem de CPPE, grupo EDP)",
+  "inicio": 1965,
+  "inicio_nota": null,
+  "estado": "em serviço",
+  "link": "https://en.wikipedia.org/wiki/Vilar_Dam",
+  "fonte": [
+   "https://en.wikipedia.org/wiki/Vilar_Dam",
+   "https://structurae.net/en/structures/vilar-dam"
+  ],
+  "confianca": "media"
+ },
+ "pw1227636482": {
+  "nome": "Central Hidroelétrica do Alto Lindoso",
+  "empresa": "EDP Produção",
+  "inicio": 1992,
+  "inicio_nota": null,
+  "estado": "em serviço",
+  "link": "https://portugal.edp.com/en/edp-portugal/alto-lindoso-hydro-power-plant",
+  "fonte": [
+   "https://portugal.edp.com/en/edp-portugal/alto-lindoso-hydro-power-plant",
+   "https://www.jornaldenegocios.pt/empresas/energia/detalhe/apa-chumba-projeto-de-aproveitamento-hidroeletrico-da-edp-na-peneda-geres"
+  ],
+  "confianca": "alta"
+ },
+ "pw1227760443": {
+  "nome": "Central Hidroelétrica da Valeira",
+  "empresa": "EDP (EDP Produção)",
+  "inicio": 1976,
+  "inicio_nota": "barragem concluída em 1975",
+  "estado": "em serviço",
+  "link": "https://portugal.edp.com/en/edp-portugal/valeira-hydro-power-plant",
+  "fonte": [
+   "https://portugal.edp.com/en/edp-portugal/valeira-hydro-power-plant",
+   "https://en.wikipedia.org/wiki/Valeira_Dam"
+  ],
+  "confianca": "alta"
+ },
+ "pw1227761012": {
+  "nome": "Central Hidroelétrica do Pocinho",
+  "empresa": "EDP Produção",
+  "inicio": 1983,
+  "inicio_nota": "outras fontes (Infopédia) indicam 1982",
+  "estado": "em serviço",
+  "link": "https://portugal.edp.com/en/edp-portugal/pocinho-hydro-power-plant",
+  "fonte": [
+   "https://portugal.edp.com/en/edp-portugal/pocinho-hydro-power-plant",
+   "https://en.wikipedia.org/wiki/Pocinho_Dam"
+  ],
+  "confianca": "alta"
+ },
+ "pw1227765299": {
+  "nome": "Central Hidroelétrica de Crestuma-Lever",
+  "empresa": "EDP Produção (EDP - Gestão da Produção de Energia)",
+  "inicio": 1985,
+  "inicio_nota": "rio Douro; 117 MW segundo a EDP",
+  "estado": "em serviço",
+  "link": "https://portugal.edp.com/en/edp-portugal/crestuma-lever-hydro-power-plant",
+  "fonte": [
+   "https://portugal.edp.com/en/edp-portugal/crestuma-lever-hydro-power-plant",
+   "https://en.wikipedia.org/wiki/Crestuma%E2%80%93Lever_Dam"
+  ],
+  "confianca": "alta"
+ },
+ "pw1227767799": {
+  "nome": "Central Hidroelétrica da Caniçada",
+  "empresa": "EDP (EDP Produção)",
+  "inicio": 1954,
+  "inicio_nota": "sem página oficial EDP encontrada; ano de Wikipedia e agregadores",
+  "estado": "em serviço",
+  "link": "https://en.wikipedia.org/wiki/Cani%C3%A7ada_Dam",
+  "fonte": [
+   "https://en.wikipedia.org/wiki/Cani%C3%A7ada_Dam",
+   "https://inzonex.co.uk/poweratlas/plant/caniçada.html"
+  ],
+  "confianca": "media"
+ },
+ "pw1230725911": {
+  "nome": "Central de Cogeração da Fábrica de Polímeros Sines Repsol",
+  "empresa": "Repsol Polímeros",
+  "inicio": null,
+  "inicio_nota": "ano não confirmado (uma só fonte, a GEM, indica 1981 para a cogeração do complexo de Sines)",
+  "estado": "em serviço",
+  "link": "https://www.repsol.pt/institucional/sala-imprensa/2024/repsol-apresenta-os-seus-planos-de-crescimento-ao-ministro-da-ec/",
+  "fonte": [
+   "https://openinframap.org/stats/area/Portugal/plants/1230725911",
+   "https://gem.wiki/Sines_Polimeros_power_station",
+   "https://www.repsol.pt/institucional/sala-imprensa/2024/repsol-apresenta-os-seus-planos-de-crescimento-ao-ministro-da-ec/"
+  ],
+  "confianca": "baixa"
+ },
+ "pw1259028350": {
+  "nome": "Central Termoelétrica do Ribatejo",
+  "empresa": "RJCE Energy – Central Elétrica do Ribatejo, S.A. (100% grupo EDP; EDP Produção)",
+  "inicio": 2004,
+  "inicio_nota": "1.º grupo fev. 2004, 2.º out. 2004, 3.º mar. 2006",
+  "estado": "em serviço",
+  "link": "https://emas.apambiente.pt/sites/default/files/files/emas/declaracoes/Declaracao%20Ambiental%20Central%20Termoeletrica%20do%20Ribatejo%202022_0.pdf",
+  "fonte": [
+   "https://emas.apambiente.pt/sites/default/files/files/emas/declaracoes/Declaracao%20Ambiental%20Central%20Termoeletrica%20do%20Ribatejo%202022_0.pdf",
+   "https://edp.com/sites/default/files/document/2025-04/declaracao_ambiental_2016_ribatejo.pdf"
+  ],
+  "confianca": "alta"
+ },
+ "pw1317960718": {
+  "nome": "Central de Cogeração de Biomassa de Setúbal",
+  "empresa": "The Navigator Company",
+  "inicio": null,
+  "inicio_nota": "agregador (OpenInfraMap) refere 2020, não confirmado; potência varia entre fontes (54 MW vs ~95 MW)",
+  "estado": "em serviço",
+  "link": "https://openinframap.org/stats/area/Portugal/plants/1317960718",
+  "fonte": [
+   "https://openinframap.org/stats/area/Portugal/plants/1317960718",
+   "https://www.apren.pt/contents/documents/joao-correia-the-navigator-company-8899.pdf"
+  ],
+  "confianca": "baixa"
+ },
+ "pw1317983012": {
+  "nome": "Central de Cogeração em Ciclo Combinado da Navigator Paper Figueira",
+  "empresa": "The Navigator Company (Navigator Paper Figueira, antiga Soporcel)",
+  "inicio": 2000,
+  "inicio_nota": "cogeração a gás natural instalada em julho de 2000; documento de licenciamento sugere que passou a reserva com a nova caldeira de biomassa - estado por confirmar",
+  "estado": "reserva",
+  "link": null,
+  "fonte": [
+   "https://siaia.apambiente.pt/AIADOC/RECAPE484/novacaldeirabiomassa_recape_resumonaotecnico2020117144816.pdf"
+  ],
+  "confianca": "media"
+ },
+ "pw1422753949": {
+  "nome": "Central Hidroelétrica do Torrão",
+  "empresa": "EDP Produção (EDP - Gestão da Produção de Energia)",
+  "inicio": 1988,
+  "inicio_nota": "rio Tâmega, Marco de Canaveses; 140 MW segundo a EDP; não confundir com o Sistema do Tâmega da Iberdrola",
+  "estado": "em serviço",
+  "link": "https://edp.com/en/europe/portugal/torrao-hydro-power-plant",
+  "fonte": [
+   "https://edp.com/en/europe/portugal/torrao-hydro-power-plant"
+  ],
+  "confianca": "alta"
+ },
+ "pw1424661457": {
+  "nome": "Central Hidroelétrica da Régua",
+  "empresa": "EDP Produção",
+  "inicio": 1973,
+  "inicio_nota": null,
+  "estado": "em serviço",
+  "link": "https://edp.com/en/europe/portugal/regua-hydro-power-plant",
+  "fonte": [
+   "https://edp.com/en/europe/portugal/regua-hydro-power-plant",
+   "https://en.wikipedia.org/wiki/R%C3%A9gua_Dam"
+  ],
+  "confianca": "alta"
+ },
+ "pw1426280012": {
+  "nome": "Central Hidroelétrica de Salamonde II",
+  "empresa": "EDP Produção (EDP - Gestão da Produção de Energia)",
+  "inicio": 2016,
+  "inicio_nota": "reforço de potência Salamonde II; as fontes encontradas só confirmam obras em 2015-2016, sem data explícita de entrada em serviço",
+  "estado": "em serviço",
+  "link": "https://edp.com/en/ah-salamonde-ii-environmental-impact-statement",
+  "fonte": [
+   "https://www.power-technology.com/marketdata/power-plant-profile-salamonde-ii-portugal/",
+   "https://www.edp.com/sites/default/files/document/2025-04/ah_salamonde_ii_dia.pdf"
+  ],
+  "confianca": "media"
+ },
+ "pw1426934786": {
+  "nome": "Central Hidroelétrica do Cabril",
+  "empresa": "EDP Produção",
+  "inicio": 1954,
+  "inicio_nota": "concessão terminou em dez. 2022; EDP mantém a exploração por prazo transitório",
+  "estado": "em serviço",
+  "link": "https://portugal.edp.com/en/edp-portugal/cabril-hydro-power-plant",
+  "fonte": [
+   "https://portugal.edp.com/en/edp-portugal/cabril-hydro-power-plant",
+   "https://en.wikipedia.org/wiki/Cabril_Dam"
+  ],
+  "confianca": "alta"
+ },
+ "pw1427805692": {
+  "nome": "Central Hidroelétrica da Paradela",
+  "empresa": "EDP Produção",
+  "inicio": 1956,
+  "inicio_nota": "página EDP «Vila Nova / Paradela»; a barragem foi concluída por volta de 1956–1958",
+  "estado": "em serviço",
+  "link": "https://portugal.edp.com/en/edp-portugal/vila-nova-paradela-hydro-power-plant",
+  "fonte": [
+   "https://portugal.edp.com/en/edp-portugal/vila-nova-paradela-hydro-power-plant",
+   "https://www.infopedia.pt/$barragem-da-paradela"
+  ],
+  "confianca": "alta"
+ },
+ "pw1427805693": {
+  "nome": "Central Hidroelétrica de Venda Nova",
+  "empresa": "EDP (EDP Produção)",
+  "inicio": 1951,
+  "inicio_nota": "central original (~90 MW); reforçada depois por Venda Nova II (2005) e Venda Nova III (2016)",
+  "estado": "em serviço",
+  "link": "https://www.gem.wiki/Venda_Nova_hydroelectric_plant",
+  "fonte": [
+   "https://www.gem.wiki/Venda_Nova_hydroelectric_plant",
+   "https://portugal.edp.com/en/edp-portugal/frades-i-venda-nova-ii-hydro-power-plant",
+   "https://openinframap.org/stats/area/Portugal/plants/1427805693"
+  ],
+  "confianca": "media"
+ },
+ "pw144713328": {
+  "nome": "Central de Ciclo Combinado da Tapada do Outeiro",
+  "empresa": "Turbogás (TrustEnergy: Engie e Marubeni; Portugen faz a operação e manutenção)",
+  "inicio": 1999,
+  "inicio_nota": "operação comercial dos 2 grupos em 30/03/1999 e 27/04/1999; primeira operação em ciclo combinado em 1998",
+  "estado": "em serviço",
+  "link": "https://gem.wiki/Tapada_do_Outeiro_power_station",
+  "fonte": [
+   "https://paginas.fe.up.pt/~mam/TurboG-1.pdf",
+   "https://edp.com/en/investors/investor-information/market-notifications/edp-sells-its-stakes-turbogas-and-portugen",
+   "https://www.jornaldenegocios.pt/empresas/energia/detalhe/bruxelas-autoriza-aquisicao-de-ativos-da-trustenergy-em-portugal-pela-japonesa-marubeni"
+  ],
+  "confianca": "media"
+ },
+ "pw151162382": {
+  "nome": "Central de Ciclo Combinado de Lares",
+  "empresa": "EDP Produção",
+  "inicio": 2009,
+  "inicio_nota": "serviço comercial em setembro de 2009",
+  "estado": "em serviço",
+  "link": "https://portugal.edp.com/en/edp-portugal/lares-thermoelectric-power-station",
+  "fonte": [
+   "https://portugal.edp.com/en/edp-portugal/lares-thermoelectric-power-station",
+   "https://edp.com/sites/default/files/document/2025-04/declaracao_ambiental_2015_lares.pdf"
+  ],
+  "confianca": "alta"
+ },
+ "pw295762700": {
+  "nome": "Central Hidroelétrica de Belver",
+  "empresa": "EDP Produção (central de Hidrotejo, grupo EDP)",
+  "inicio": 1951,
+  "inicio_nota": "Wikipédia dá conclusão da barragem em 1952",
+  "estado": "em serviço",
+  "link": "https://portugal.edp.com/en/edp-portugal/belver-hydro-power-plant",
+  "fonte": [
+   "https://portugal.edp.com/en/edp-portugal/belver-hydro-power-plant",
+   "https://en.wikipedia.org/wiki/Belver_Dam"
+  ],
+  "confianca": "alta"
+ },
+ "pw343672162": {
+  "nome": "Central Hidroelétrica de Foz Tua",
+  "empresa": "Movhera (consórcio Engie / Crédit Agricole Assurances / Mirova; comprada à EDP, venda concluída em dez. 2020)",
+  "inicio": 2017,
+  "inicio_nota": "construída pela EDP (obras desde 2010); ano 2017 vem de GlobalData e Global Energy Monitor, não de página oficial",
+  "estado": "em serviço",
+  "link": "https://www.edp.com/en/stories/foz-tua-when-relationship-river-changes",
+  "fonte": [
+   "https://gem.wiki/Foz_Tua_hydroelectric_plant",
+   "https://www.power-technology.com/marketdata/foz-tua-portugal/",
+   "https://edp.com/en/news/2020/12/17/edp-finalizes-sale-dams-engie-led-consortium"
+  ],
+  "confianca": "media"
+ },
+ "pw360309560": {
+  "nome": "Central Hidroelétrica de Castelo do Bode",
+  "empresa": "EDP Produção",
+  "inicio": 1951,
+  "inicio_nota": null,
+  "estado": "em serviço",
+  "link": "https://portugal.edp.com/en/castelo-de-bode-hydro-power-plant",
+  "fonte": [
+   "https://portugal.edp.com/en/castelo-de-bode-hydro-power-plant",
+   "https://www.infopedia.pt/artigos/$barragem-de-castelo-de-bode",
+   "https://apambiente.pt/sites/default/files/_A_APA/Comunicacao/Media/NotasOCS2026/notaocs_006-2026_barragemdecastelodebodefazhoje75anos.pdf"
+  ],
+  "confianca": "alta"
+ },
+ "pw362486885": {
+  "nome": "Central Hidroelétrica de Fratel",
+  "empresa": "EDP Produção",
+  "inicio": 1974,
+  "inicio_nota": "a Wikipédia dá conclusão em 1973",
+  "estado": "em serviço",
+  "link": "https://portugal.edp.com/en/edp-portugal/fratel-hydro-power-plant",
+  "fonte": [
+   "https://portugal.edp.com/en/edp-portugal/fratel-hydro-power-plant",
+   "https://en.wikipedia.org/wiki/Fratel_Dam"
+  ],
+  "confianca": "alta"
+ },
+ "pw449923115": {
+  "nome": "Central Hidroelétrica do Baixo Sabor - Escalão de Montante",
+  "empresa": "Movhera (consórcio Engie / Crédit Agricole Assurances / Mirova; comprada à EDP)",
+  "inicio": 2016,
+  "inicio_nota": "escalão de montante em 2016 (GlobalData, GEM); o escalão de jusante entrou em operação comercial em abril de 2015",
+  "estado": "em serviço",
+  "link": "https://www.apren.pt/wp-content/uploads/2026/07/APREN_2026_GrandesHidricas.pdf",
+  "fonte": [
+   "https://andritz.com/hydro-en/hydronews/hydro-news-29/hy-hn29-14-baixo-sabor-portugal",
+   "https://www.power-technology.com/marketdata/power-plant-profile-baixo-sabor-portugal",
+   "https://edp.com/en/news/2020/12/17/edp-finalizes-sale-dams-engie-led-consortium"
+  ],
+  "confianca": "media"
+ },
+ "pw455366572": {
+  "nome": "Central Hidroelétrica de Frades I",
+  "empresa": "EDP Produção",
+  "inicio": 2005,
+  "inicio_nota": "Frades I / Venda Nova II; o reforço Frades II entrou em 2017",
+  "estado": "em serviço",
+  "link": "https://portugal.edp.com/en/edp-portugal/frades-i-venda-nova-ii-hydro-power-plant",
+  "fonte": [
+   "https://portugal.edp.com/en/edp-portugal/frades-i-venda-nova-ii-hydro-power-plant",
+   "https://impeller.net/magazin/a-milestone-for-hydropower-successful-startup-of-frades-ii"
+  ],
+  "confianca": "alta"
+ },
+ "pw455366583": {
+  "nome": "Central Hidroelétrica de Frades II",
+  "empresa": "EDP Produção (EDP - Gestão da Produção de Energia)",
+  "inicio": 2017,
+  "inicio_nota": "central reversível nova (não é remodelação); em operação desde abril de 2017 segundo o fornecedor Voith",
+  "estado": "em serviço",
+  "link": "https://www.apren.pt/wp-content/uploads/2026/07/APREN_2026_GrandesHidricas.pdf",
+  "fonte": [
+   "https://www.voith.com/corp-en/industry-solutions/hydropower/pumped-storage-plants/frades-ii-portugal.html",
+   "https://impeller.net/magazin/a-milestone-for-hydropower-successful-startup-of-frades-ii"
+  ],
+  "confianca": "alta"
+ },
+ "pw542176012": {
+  "nome": "Central Hidroelétrica da Bemposta II",
+  "empresa": "Movhera (consórcio Engie / Crédit Agricole Assurances / Mirova; comprada à EDP)",
+  "inicio": 2011,
+  "inicio_nota": "reforço de potência Bemposta II, central subterrânea concluída em dez. 2011; Bemposta I é de 1964",
+  "estado": "em serviço",
+  "link": "https://en.wikipedia.org/wiki/Bemposta_Dam",
+  "fonte": [
+   "https://en.wikipedia.org/wiki/Bemposta_Dam",
+   "https://postal.pt/nacional/consorcio-da-engie-vai-atuar-nas-barragens-em-portugal-com-a-marca-movhera/"
+  ],
+  "confianca": "alta"
+ },
+ "pw648169310": {
+  "nome": "Central Hidroelétrica do Alqueva II",
+  "empresa": "EDP Produção (EDP - Gestão da Produção de Energia)",
+  "inicio": 2012,
+  "inicio_nota": "reforço de potência (Alqueva II, reversível); grupos em serviço em 10/2012 segundo a APREN, inaugurada oficialmente em janeiro de 2013; Alqueva I desde 2004",
+  "estado": "em serviço",
+  "link": "https://www.apren.pt/wp-content/uploads/2026/07/APREN_2026_GrandesHidricas.pdf",
+  "fonte": [
+   "https://www.apren.pt/wp-content/uploads/2026/07/APREN_2026_GrandesHidricas.pdf",
+   "https://www.alstom.com/press-releases-news/2013/1/inauguration-of-alqueva-ii-hydro-plant-in-portugal-powered-by-alstom",
+   "https://www.renewableenergyworld.com/hydro-power/portugal-switches-on-520-mw-hydropower-plant/"
+  ],
+  "confianca": "alta"
+ },
+ "pw767834338": {
+  "nome": "Central Hidroelétrica de Daivões",
+  "empresa": "Iberdrola",
+  "inicio": 2022,
+  "inicio_nota": "complexo do Tâmega (Daivões, Gouvães, Alto Tâmega); a página PT da Iberdrola indica 2021 para o arranque",
+  "estado": "em serviço",
+  "link": "https://www.iberdrola.com/about-us/power/hydroelectric-power/tamega-giga-battery",
+  "fonte": [
+   "https://www.iberdrola.com/about-us/power/hydroelectric-power/tamega-giga-battery",
+   "https://www.iberdrola.com/documents/20125/3850722/240122-iberdrola-da-mais-um-passo-para-iniciar-as-operacoes-do-complexo-hidreletrico-do-tamega.pdf"
+  ],
+  "confianca": "alta"
+ },
+ "pw768250326": {
+  "nome": "Central Hidroelétrica de Gouvães",
+  "empresa": "Iberdrola (Sistema Eletroprodutor do Tâmega)",
+  "inicio": 2022,
+  "inicio_nota": "Gouvães e Daivões entraram em operação no início de 2022; central reversível de 880 MW",
+  "estado": "em serviço",
+  "link": "https://www.iberdrola.com/conocenos/generacion-electrica-power/energia-hidroelectrica/complejo-tamega",
+  "fonte": [
+   "https://www.iberdrola.com/conocenos/generacion-electrica-power/energia-hidroelectrica/central-tamega-gigabateria",
+   "https://www.noticiasaominuto.com/economia/1921140/iberdrola-liga-rede-primeiro-grupo-do-sistema-eletroprodutor-do-tmega"
+  ],
+  "confianca": "alta"
+ },
+ "pw804443636": {
+  "nome": "Central Hidroelétrica do Ribeiradio",
+  "empresa": "EDP (EDP Produção)",
+  "inicio": 2015,
+  "inicio_nota": null,
+  "estado": "em serviço",
+  "link": "https://portugal.edp.com/en/edp-portugal/ribeiradio-hydro-power-plant",
+  "fonte": [
+   "https://portugal.edp.com/en/edp-portugal/ribeiradio-hydro-power-plant",
+   "https://www.gem.wiki/Ribeiradio_hydroelectric_plant"
+  ],
+  "confianca": "alta"
+ },
+ "pw805120230": {
+  "nome": "Central Hidroelétrica do Alqueva I",
+  "empresa": "EDP Produção",
+  "inicio": 2004,
+  "inicio_nota": "a página da EDP indica arranque em 2003; fontes técnicas e inauguração em 2004; reforço Alqueva II (2013)",
+  "estado": "em serviço",
+  "link": "https://portugal.edp.com/en/alqueva-i-hydro-power-plant",
+  "fonte": [
+   "https://portugal.edp.com/en/alqueva-i-hydro-power-plant",
+   "https://www.alstom.com/press-releases-news/2013/1/inauguration-of-alqueva-ii-hydro-plant-in-portugal-powered-by-alstom"
+  ],
+  "confianca": "media"
+ },
+ "pw805803314": {
+  "nome": "Central Hidroelétrica de Vilarinho das Furnas",
+  "empresa": "EDP Produção (EDP - Gestão da Produção de Energia)",
+  "inicio": 1972,
+  "inicio_nota": "barragem inaugurada a 21 maio 1972; GlobalData diz central reversível, a APA não menciona bombagem",
+  "estado": "em serviço",
+  "link": "https://cnpgb.apambiente.pt/gr_barragens/gbingles/FichasIng/VilarinhodasFurnasfichaIng.htm",
+  "fonte": [
+   "https://www.infopedia.pt/artigos/$barragem-de-vilarinho-das-furnas",
+   "https://www.power-technology.com/marketdata/power-plant-profile-vilarinho-das-furnas-portugal/"
+  ],
+  "confianca": "media"
+ },
+ "pw814287394": {
+  "nome": "Central Solar da Herdade do Quintal",
+  "empresa": null,
+  "inicio": null,
+  "inicio_nota": "apenas o OpenInfraMap lista a central (operador Energi Innovation); nada confirmado",
+  "estado": "desconhecido",
+  "link": null,
+  "fonte": [
+   "https://openinframap.org/stats/area/Portugal/plants/814287394"
+  ],
+  "confianca": "baixa"
+ },
+ "pw920235419": {
+  "nome": "Central de Cogeração da Refinaria de Sines",
+  "empresa": "Sinecogeração - Cogeração da Refinaria de Sines (100% Galp Power)",
+  "inicio": null,
+  "inicio_nota": "arranque não confirmado; turbinas GE entregues em 2010 segundo a imprensa; OSM dá 80 MW, GEM 91 MW",
+  "estado": "em serviço",
+  "link": null,
+  "fonte": [
+   "https://gem.wiki/Sines_Refinery_power_station",
+   "https://enerzine.com/ge-energy-2-turbines-a-gaz-livrees-au-portugal/8538-2010-04",
+   "https://www.eib.org/attachments/pipeline/1333_nts_pt.pdf"
+  ],
+  "confianca": "media"
+ },
+ "pw969659867": {
+  "nome": "Central Hidroelétrica da Aguieira",
+  "empresa": "EDP (EDP Produção)",
+  "inicio": 1981,
+  "inicio_nota": "reversível; gerida pela Iberdrola por contrato desde 2009",
+  "estado": "em serviço",
+  "link": "https://portugal.edp.com/en/aguieira-hydro-power-plant",
+  "fonte": [
+   "https://portugal.edp.com/en/aguieira-hydro-power-plant",
+   "https://www.apren.pt/wp-content/uploads/2026/07/APREN_2026_GrandesHidricas.pdf"
+  ],
+  "confianca": "alta"
+ }
+}

@@ -1,0 +1,18 @@
+[
+ {
+  "match": "Tapada do Outeiro",
+  "status": "reserve",
+  "note": "Google Maps marca «encerrado permanentemente»; as notícias indicam fim do contrato (CAE) e função de reserva (arranque autónomo), sem produção comercial regular. Tratada como fora de serviço comercial, a confirmar com dados de produção reais (ENTSO-E).",
+  "sources": [
+   "https://www.erse.pt/media/32aey0yi/parecer-contratação-manutenção-em-preservação-a-húmido-de-2º-grupo-da-ctg.pdf",
+   "https://observador.pt/opiniao/a-central-que-acendeu-o-pais-e-vive-a-prazo/",
+   "https://www.jornaldenegocios.pt/empresas/detalhe/centrais-a-gas-dao-estabilidade-ao-sistema-energetico"
+  ],
+  "checked": "2026-11-10",
+  "notes": {
+   "en": "Google Maps shows it as “permanently closed”; the news report the end of its contract (CAE) and a reserve role (standalone start-up), with no regular commercial output. Treated as out of commercial service, to be confirmed with real production data (ENTSO-E).",
+   "es": "Google Maps la marca como «cerrada permanentemente»; las noticias indican el fin del contrato (CAE) y una función de reserva (arranque autónomo), sin producción comercial regular. Se trata como fuera de servicio comercial, por confirmar con datos reales de producción (ENTSO-E).",
+   "fr": "Google Maps l'indique comme « définitivement fermée » ; la presse signale la fin du contrat (CAE) et un rôle de réserve (démarrage autonome), sans production commerciale régulière. Traitée comme hors service commercial, à confirmer avec des données de production réelles (ENTSO-E)."
+  }
+ }
+]

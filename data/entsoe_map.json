@@ -1,0 +1,244 @@
+{
+ "Alqueva": {
+  "centrais": [
+   "pw805120230",
+   "pw648169310"
+  ],
+  "nomes_osm": [
+   "Central Hidroelétrica do Alqueva I",
+   "Central Hidroelétrica do Alqueva II"
+  ]
+ },
+ "Aguieira": {
+  "centrais": [
+   "pw969659867"
+  ],
+  "nomes_osm": [
+   "Central Hidroelétrica da Aguieira"
+  ]
+ },
+ "Alto Lindoso": {
+  "centrais": [
+   "pw1227636482"
+  ],
+  "nomes_osm": [
+   "Central Hidroelétrica do Alto Lindoso"
+  ]
+ },
+ "Baixo Sabor Montante": {
+  "centrais": [
+   "pw449923115"
+  ],
+  "nomes_osm": [
+   "Central Hidroelétrica do Baixo Sabor - Escalão de Montante"
+  ]
+ },
+ "Bemposta": {
+  "centrais": [
+   "pr19472397"
+  ],
+  "nomes_osm": [
+   "Central Hidroelétrica da Bemposta I"
+  ]
+ },
+ "Bemposta II": {
+  "centrais": [
+   "pw542176012"
+  ],
+  "nomes_osm": [
+   "Central Hidroelétrica da Bemposta II"
+  ]
+ },
+ "Cabril": {
+  "centrais": [
+   "pw1426934786"
+  ],
+  "nomes_osm": [
+   "Central Hidroelétrica do Cabril"
+  ]
+ },
+ "Carrapatelo": {
+  "centrais": [
+   "pr19569245"
+  ],
+  "nomes_osm": [
+   "Central Hidroelétrica do Carrapatelo"
+  ]
+ },
+ "Castelo Bode": {
+  "centrais": [
+   "pw360309560"
+  ],
+  "nomes_osm": [
+   "Central Hidroelétrica de Castelo do Bode"
+  ]
+ },
+ "Crestuma": {
+  "centrais": [
+   "pw1227765299"
+  ],
+  "nomes_osm": [
+   "Central Hidroelétrica de Crestuma-Lever"
+  ]
+ },
+ "Foz Tua": {
+  "centrais": [
+   "pw343672162"
+  ],
+  "nomes_osm": [
+   "Central Hidroelétrica de Foz Tua"
+  ]
+ },
+ "Frades II": {
+  "centrais": [
+   "pw455366583"
+  ],
+  "nomes_osm": [
+   "Central Hidroelétrica de Frades II"
+  ]
+ },
+ "V.Nova II(Frades)": {
+  "centrais": [
+   "pw455366572"
+  ],
+  "nomes_osm": [
+   "Central Hidroelétrica de Frades I"
+  ]
+ },
+ "Fratel": {
+  "centrais": [
+   "pw362486885"
+  ],
+  "nomes_osm": [
+   "Central Hidroelétrica de Fratel"
+  ]
+ },
+ "Lares": {
+  "centrais": [
+   "pw151162382"
+  ],
+  "nomes_osm": [
+   "Central de Ciclo Combinado de Lares"
+  ]
+ },
+ "Miranda": {
+  "centrais": [
+   "pr19549760"
+  ],
+  "nomes_osm": [
+   "Central Hidroelétrica de Miranda I"
+  ]
+ },
+ "Miranda II": {
+  "centrais": [
+   "pw1226928891"
+  ],
+  "nomes_osm": [
+   "Central Hidroelétrica de Miranda II"
+  ]
+ },
+ "Pego C.C.": {
+  "centrais": [
+   "pw114849239"
+  ],
+  "nomes_osm": [
+   "Central Termoelétrica do Pego"
+  ]
+ },
+ "Picote": {
+  "centrais": [
+   "pr19455216"
+  ],
+  "nomes_osm": [
+   "Central Hidroelétrica de Picote"
+  ]
+ },
+ "Picote II": {
+  "centrais": [
+   "pr19455283"
+  ],
+  "nomes_osm": [
+   "Central Hidroelétrica de Picote II"
+  ]
+ },
+ "Pocinho": {
+  "centrais": [
+   "pw1227761012"
+  ],
+  "nomes_osm": [
+   "Central Hidroelétrica do Pocinho"
+  ]
+ },
+ "Régua": {
+  "centrais": [
+   "pw1424661457"
+  ],
+  "nomes_osm": [
+   "Central Hidroelétrica da Régua"
+  ]
+ },
+ "Ribatejo": {
+  "centrais": [
+   "pw1259028350"
+  ],
+  "nomes_osm": [
+   "Central Termoelétrica do Ribatejo"
+  ]
+ },
+ "T.Outeiro C.C.": {
+  "centrais": [
+   "pw144713328"
+  ],
+  "nomes_osm": [
+   "Central de Ciclo Combinado da Tapada do Outeiro"
+  ]
+ },
+ "Salamonde II": {
+  "centrais": [
+   "pw1426280012"
+  ],
+  "nomes_osm": [
+   "Central Hidroelétrica de Salamonde II"
+  ]
+ },
+ "Torrão": {
+  "centrais": [
+   "pw1422753949"
+  ],
+  "nomes_osm": [
+   "Central Hidroelétrica do Torrão"
+  ]
+ },
+ "Valeira": {
+  "centrais": [
+   "pw1227760443"
+  ],
+  "nomes_osm": [
+   "Central Hidroelétrica da Valeira"
+  ]
+ },
+ "Vilarinho Furnas": {
+  "centrais": [
+   "pw805803314"
+  ],
+  "nomes_osm": [
+   "Central Hidroelétrica de Vilarinho das Furnas"
+  ]
+ },
+ "Gouvães": {
+  "centrais": [
+   "pw768250326"
+  ],
+  "nomes_osm": [
+   "Central Hidroelétrica de Gouvães"
+  ]
+ },
+ "Daivões": {
+  "centrais": [
+   "pw767834338"
+  ],
+  "nomes_osm": [
+   "Central Hidroelétrica de Daivões"
+  ]
+ }
+}
